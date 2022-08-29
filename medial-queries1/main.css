@@ -1,3 +1,33 @@
 body {
   background: blanchedalmond;
+  border-color: black;
 }
+
+.container{
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.a {
+  background-color: black;
+  min-width: 200em;
+  min-height: 20em;
+ 
+
+}
+
+.b{
+background-color: blue;
+ min-height: 30em;
+ min-width: 70em;
+  
+
+}
+
+.c{
+ background-color: blueviolet;
+ min-width: 25em;
+ min-height: 200px;
+}
+
